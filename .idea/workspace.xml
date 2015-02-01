@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01375a05-b170-4a8a-b9a5-a357d55aa73a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Clipboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Compas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Gift-Box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Infinity-Loop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Pensils.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Pocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Retina-Ready.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Toilet-Paper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/png/Watches.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons/flat-ui-icons-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons/flat-ui-icons-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons/flat-ui-icons-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/login/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/login/imac-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/login/imac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-black.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-black.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-bolditalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-bolditalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-bolditalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tile/ribbon-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tile/ribbon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/vendor/video-js.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/book.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/vendor/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/chat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/clipboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/clocks.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/compas.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons/flat-ui-icons-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/flat-ui.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/flat-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/flat-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/flat-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/flat-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/gift-box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/vendor/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/vendor/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/vendor/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-bolditalic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-light.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/lato/lato-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/loop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/mail.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/map.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/paper-bag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/pencils.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/vendor/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/retina.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/ribbon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons/selection.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/svg/toilet-paper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/vendor/video.js" />
+    </list>
+    <ignored path="sbarulic.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sbarulic.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/vendor/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.70826304" vertical-offset="0" max-vertical-offset="645">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="122" />
+    <option name="y" value="133" />
+    <option name="width" value="1536" />
+    <option name="height" value="816" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sbarulic.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sbarulic.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sbarulic.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sbarulic.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sbarulic.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01375a05-b170-4a8a-b9a5-a357d55aa73a" name="Default" comment="" />
+      <created>1422821532360</created>
+      <updated>1422821532360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="122" y="133" width="1536" height="816" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27458745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/css/vendor/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70826304" vertical-offset="0" max-vertical-offset="645">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
